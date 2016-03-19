@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>业务受理大厅</key>
+	<array>
+		<string>1F</string>
+		<string>a</string>
+	</array>
+	<key>综合服务大厅</key>
+	<array>
+		<string>-1F</string>
+		<string>a</string>
+	</array>
+	<key>内勤办公室</key>
+	<array>
+		<string>-1F</string>
+		<string>b</string>
+	</array>
+	<key>查验区</key>
+	<array>
+		<string>-1F</string>
+		<string>c</string>
+	</array>
+	<key>体检室</key>
+	<array>
+		<string>-2Fa</string>
+		<string>a</string>
+	</array>
+	<key>学习室</key>
+	<array>
+		<string>-2Fa</string>
+		<string>b</string>
+	</array>
+	<key>科目一考场</key>
+	<array>
+		<string>-2Fa</string>
+		<string>c</string>
+	</array>
+	<key>便民区</key>
+	<array>
+		<string>-2Fa</string>
+		<string>d</string>
+	</array>
+	<key>档案室</key>
+	<array>
+		<string>-2Fb</string>
+		<string>a</string>
+	</array>
+	<key>车辆体测线</key>
+	<array>
+		<string>-2Fb</string>
+		<string>b</string>
+	</array>
+</dict>
+</plist>

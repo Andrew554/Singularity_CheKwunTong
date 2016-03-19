@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>驾驶证业务</key>
+	<array>
+		<string>补换驾驶证</string>
+		<string>初次申领驾驶证</string>
+		<string>恢复驾驶资格</string>
+		<string>驾驶证年审</string>
+		<string>满分考试</string>
+		<string>注销驾驶证</string>
+		<string>注销最高准驾车型和实习准驾车型</string>
+		<string>提交身体证明</string>
+	</array>
+	<key>其他机动车业务</key>
+	<array>
+		<string>补、换领机动车牌证</string>
+		<string>申请临时行驶车牌号</string>
+		<string>申请检验合格标志</string>
+		<string>电动自行车登记</string>
+	</array>
+	<key>机动车登记业务</key>
+	<array>
+		<string>注册登记</string>
+		<string>变更登记</string>
+		<string>抵押(质押)登记</string>
+		<string>转移登记</string>
+		<string>注销登记</string>
+	</array>
+</dict>
+</plist>
